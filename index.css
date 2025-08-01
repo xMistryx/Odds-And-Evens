@@ -1,0 +1,10 @@
+.number-selector {
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.number-selector {
+    display: flex;
+    align-items: flex-end;
+}
